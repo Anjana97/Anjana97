@@ -12,4 +12,5 @@ Here are some ideas to get you started: -->
 - 📫 Ping me on : Instagram: https://www.instagram.com/__anjana_george__/?hl=en  \
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;Linkedin: www.linkedin.com/in/anjanageorge97
 - ⚡ Fun fact: Im always better than the one you thought.
+\
 ![HitCount](http://hits.dwyl.com/Anjana97/Anjana97.svg)
