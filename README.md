@@ -8,6 +8,6 @@ Here are some ideas to get you started: -->
 - 🔭 I’m currently pursuing on Master's in Computer Science and Information System.
 - 🌱 I’m currently learning many things which can't be listed but you can definitely get to know if you can have a talk with me.
 - 👯 I’m looking to collaborate on socially relevant projects.
-- 📫 Ping me on :  Instagram: https://www.instagram.com/__anjana_george__/?hl=en \
+- 📫 Ping me on :  Instagram: https://www.instagram.com/__anjana_george__/?hl=en <br \>
                    Linkedin: www.linkedin.com/in/anjanageorge97
 - ⚡ Fun fact: Im always better than the one you thought.
