@@ -2,6 +2,7 @@
 
 <!--
 **Anjana97/Anjana97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![HitCount](http://hits.dwyl.com/Anjana George/Anjana97.svg)
 
 Here are some ideas to get you started: -->
 
