@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hi there 👋 
 
 <!--
 **Anjana97/Anjana97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-Here are some ideas to get you started: -->
+Here are s ome ideas to get you started: -->
 
 - 🔭 I’m currently pursuing on Master's in Computer Science and Information System.
 - 🌱 I’m currently learning many things which can't be listed but you can definitely get to know if you can have a talk with me.
