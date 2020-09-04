@@ -11,7 +11,7 @@ Here are s ome ideas to get you started: -->
 - 👯 I’m looking to collaborate on socially relevant projects.
 - 📫 Ping me on:   <a href= "www.linkedin.com/in/anjanageorge97"> Linkedin </a> , 
 <a href="https://www.instagram.com/__anjana_george__/?hl=en"> Instagram </a>
-- ⚡ Fun fact: Im always better than the one you thought.
+- ⚡ Fun fact: Im always better than the one you thought
 \
 \
 ![HitCount](http://hits.dwyl.com/Anjana97/Anjana97.svg)
